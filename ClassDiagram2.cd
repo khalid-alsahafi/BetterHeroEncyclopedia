@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TaleWorlds.CampaignSystem.Encyclopedia.Pages.DefaultEncyclopediaClanPage">
+    <Position X="14.75" Y="10" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="TaleWorlds.CampaignSystem.Encyclopedia.Pages.DefaultEncyclopediaClanPage.EncyclopediaListClanComparer" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TaleWorlds.CampaignSystem.Encyclopedia.Pages.DefaultEncyclopediaConceptPage">
+    <Position X="23" Y="10" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TaleWorlds.CampaignSystem.Encyclopedia.Pages.DefaultEncyclopediaFactionPage">
+    <Position X="28.75" Y="10" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="TaleWorlds.CampaignSystem.Encyclopedia.Pages.DefaultEncyclopediaFactionPage.EncyclopediaListKingdomComparer" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TaleWorlds.CampaignSystem.Encyclopedia.Pages.DefaultEncyclopediaHeroPage">
+    <Position X="17.5" Y="10" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="TaleWorlds.CampaignSystem.Encyclopedia.Pages.DefaultEncyclopediaHeroPage.EncyclopediaListHeroComparer" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TaleWorlds.CampaignSystem.Encyclopedia.Pages.DefaultEncyclopediaSettlementPage">
+    <Position X="25.75" Y="10" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="TaleWorlds.CampaignSystem.Encyclopedia.Pages.DefaultEncyclopediaSettlementPage.EncyclopediaListSettlementComparer" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TaleWorlds.CampaignSystem.Encyclopedia.Pages.DefaultEncyclopediaShipPage">
+    <Position X="31.5" Y="10" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="TaleWorlds.CampaignSystem.Encyclopedia.Pages.DefaultEncyclopediaShipPage.EncyclopediaListShipComparer" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TaleWorlds.CampaignSystem.Encyclopedia.Pages.DefaultEncyclopediaUnitPage">
+    <Position X="20.25" Y="10" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="TaleWorlds.CampaignSystem.Encyclopedia.Pages.DefaultEncyclopediaUnitPage.EncyclopediaListUnitComparer" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TaleWorlds.CampaignSystem.Encyclopedia.EncyclopediaModelBase">
+    <Position X="19.75" Y="6.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TaleWorlds.CampaignSystem.Encyclopedia.EncyclopediaPage">
+    <Position X="23.25" Y="3" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TaleWorlds.CampaignSystem.Encyclopedia.OverrideEncyclopediaModel">
+    <Position X="16" Y="7" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
